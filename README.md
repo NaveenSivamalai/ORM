@@ -50,7 +50,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![naveen](<Exp 2 naveen.png>)
+![image](https://github.com/NaveenSivamalai/ORM/assets/123792574/f14782e7-d715-48d1-98fa-b46021e4bc25)
+
 
 
 ## RESULT
